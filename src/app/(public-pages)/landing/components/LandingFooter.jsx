@@ -84,7 +84,7 @@ const LandingFooter = ({ mode }) => {
                                         className="flex flex-col md:flex-row items-center gap-4 bg-white/20 dark:bg-black/30 p-4 rounded-xl backdrop-blur-md border border-gray-200 dark:border-gray-700 shadow-lg"
                                     >
                                         {/* Replace with your own Web3Forms Access Key */}
-                                        <input type="hidden" name="access_key" value="13c5a260-67d9-4e2f-aac9-fa40fe48f177" />
+                                        <input type="hidden" name="access_key" value="a628e3c6-5780-4d19-acf9-01ab2302215b" />
                                         <input type="hidden" name="subject" value="New Waitlist Subscriber" />
                                         <input type="hidden" name="from_name" value="HIEROGLF Waitlist" />
 
